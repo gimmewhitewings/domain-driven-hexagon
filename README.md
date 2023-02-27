@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Domain-Driven ex on
+=======
+# Domain-Driven ex on
+>>>>>>> branch1
 
 **Check out my other repositories**:
 
