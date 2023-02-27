@@ -1,4 +1,4 @@
-# Domain-Driv Hexag
+# Domain-Driv Hexagon
 
 **Check out my other repositories**:
 
