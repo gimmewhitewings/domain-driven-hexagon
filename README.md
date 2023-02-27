@@ -1,4 +1,4 @@
-# Domain-Driven exagon
+# Domain-Driven ex
 
 **Check out my other repositories**:
 
