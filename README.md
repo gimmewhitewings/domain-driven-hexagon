@@ -1,4 +1,4 @@
-# Domain-Driven Hexagon
+# Domain-Driven Hex
 
 **Check out my other repositories**:
 
