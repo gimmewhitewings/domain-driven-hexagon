@@ -1,4 +1,4 @@
-# Domain-Driv Hex
+# Domain-Driv Hexa
 
 **Check out my other repositories**:
 
