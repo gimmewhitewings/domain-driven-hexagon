@@ -1,4 +1,4 @@
-# Domain-Driven Hex
+# Domain-Driven He
 
 **Check out my other repositories**:
 
